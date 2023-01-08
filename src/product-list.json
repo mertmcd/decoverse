@@ -1,0 +1,570 @@
+{
+    "CategoryEntity":
+    [
+        {
+            "Id": 1,
+            "CategoryName": "Kuvet",
+            "CategoryUrl": "https://www.decoverse/category/1",
+            "ParentCategoryId": null
+        },
+        {
+            "Id": 2,
+            "CategoryName": "Batarya",
+            "CategoryUrl": "https://www.decoverse/category/2",
+            "ParentCategoryId": null
+        },
+        {
+            "Id": 3,
+            "CategoryName": "Seramik",
+            "CategoryUrl": "https://www.decoverse/category/3",
+            "ParentCategoryId": null
+        }
+    ],
+    
+    "ProductEntity":
+    [
+        {
+            "Id": 1,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 150,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+        },
+        {
+            "Id": 2,
+            "ProductName": "Hasan Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 30,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+        },
+        {
+            "Id": 3,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 520,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 4,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 10,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 5,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 25,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 6,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 380,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 7,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 240,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 8,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 50,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 9,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 190,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+        },
+        {
+            "Id": 10,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 220,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 11,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 240,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+        },
+        {
+            "Id": 12,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 275,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 13,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 300,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 14,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 320,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 15,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 330,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 16,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 370,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 17,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 355,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+        },
+        {
+            "Id": 18,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 410,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 19,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 415,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 20,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 420,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+        },
+        {
+            "Id": 21,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 430,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+
+        },
+        {
+            "Id": 22,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 440,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+
+        },
+        {
+            "Id": 23,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 480,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+
+        },
+        {
+            "Id": 24,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 490,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 25,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 495,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 26,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 10,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 27,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 215,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 28,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 115,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 29,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 315,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+        },
+        {
+            "Id": 30,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 415,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 31,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 135,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+        },
+        {
+            "Id": 32,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 145,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 33,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 155,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 34,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 245,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 35,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 345,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 36,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 415,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 37,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 435,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+        },
+        {
+            "Id": 38,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 320,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 39,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 220,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 40,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 170,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+        },
+        {
+            "Id": 41,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 70,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+        },
+        {
+            "Id": 42,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 190,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+        },
+        {
+            "Id": 43,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 290,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 44,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 390,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 45,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 490,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 46,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 485,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 47,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 260,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 48,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 360,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+        },
+        {
+            "Id": 49,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 365,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+        },
+        {
+            "Id": 50,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 165,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 51,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 180,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+        },
+        {
+            "Id": 52,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 280,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 53,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 380,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 54,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 480,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+        },
+        {
+            "Id": 55,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 170,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 56,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 270,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 57,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 370,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+        },
+        {
+            "Id": 58,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitra",
+            "ProductPrice": 470,
+            "ProductColor": "Krom",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+        },
+        {
+            "Id": 59,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Vitale",
+            "ProductPrice": 475,
+            "ProductColor": "Siyah",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+        },
+        {
+            "Id": 60,
+            "ProductName": "Origin Lavabo Bataryası",
+            "ProductBrand": "Denko",
+            "ProductPrice": 485,
+            "ProductColor": "Nikel",
+            "ProductType": "Lavabo Bataryası",
+            "ProductUrl": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+        }
+    ]
+}
