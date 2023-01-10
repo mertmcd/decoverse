@@ -42,13 +42,13 @@ const Navbar = () => {
                             <Link to="/products" className="hover-menu-list-item-link">Vitrifiye All</Link>
                         </li>
                         <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
-                            <Link to="/products/1" className="hover-menu-list-item-link">Vitrifiye Category 1</Link>
+                            <Link to="/products" className="hover-menu-list-item-link">Vitrifiye Category 1</Link>
                         </li>
                         <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
-                            <Link to="/products/2" className="hover-menu-list-item-link">Vitrifiye Category 2</Link>
+                            <Link to="/products" className="hover-menu-list-item-link">Vitrifiye Category 2</Link>
                         </li>
                         <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
-                            <Link to="/products/3" className="hover-menu-list-item-link">Vitrifiye Category 3</Link>
+                            <Link to="/products" className="hover-menu-list-item-link">Vitrifiye Category 3</Link>
                         </li>
                     </ul>
                     </div>
@@ -78,13 +78,13 @@ const Navbar = () => {
                         <Link to="/products" className="hover-menu-list-item-link">Banyo Mobilyalari All</Link>
                     </li>
                     <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
-                        <Link to="/products/1" className="hover-menu-list-item-link">Banyo Mobilyalari Category 1</Link>
+                        <Link to="/products" className="hover-menu-list-item-link">Banyo Mobilyalari Category 1</Link>
                     </li>
                     <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
-                        <Link to="/products/2" className="hover-menu-list-item-link">Banyo Mobilyalari Category 2</Link>
+                        <Link to="/products" className="hover-menu-list-item-link">Banyo Mobilyalari Category 2</Link>
                     </li>
                     <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
-                        <Link to="/products/3" className="hover-menu-list-item-link">Banyo Mobilyalari Category 3</Link>
+                        <Link to="/products" className="hover-menu-list-item-link">Banyo Mobilyalari Category 3</Link>
                     </li>
                 </ul>
             </div>
