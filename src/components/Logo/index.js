@@ -1,11 +1,14 @@
 import logo from "../../images/logo.svg";
+import {Link} from "react-router-dom";
 
 const Logo = () => {
 
     return (
-        <div className="">
+        <Link to="/" className="cursor-pointer">
+        <div className="cursor-pointer">
             <img src={logo} alt={"Logo"} />
         </div>
+        </Link>
     );
 }
 

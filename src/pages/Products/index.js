@@ -5,7 +5,6 @@ import LazyLoad from 'react-lazyload';
 
 
 const Products = () => {
-    const [category, setCategory] = useState([]);
     const [products, setProducts] = useState([]);
 
     const prodList = jsonData.ProductEntity;
@@ -19,8 +18,11 @@ const Products = () => {
     };
 
     const sortCategory = (catName) => {
-        let filteredProducts = prodList.filter(product => product.ProductCategory === catName);
-        setProducts(filteredProducts);
+        if(catName === "All") setProducts(prodList);
+        else {
+            let filteredProducts = prodList.filter(product => product.ProductCategory === catName);
+            setProducts(filteredProducts);
+        }
     };
 
     const sortPrice = (priceVal) => {
@@ -73,7 +75,10 @@ const Products = () => {
                 <Sort
                 sortBrand={sortBrand}
                 sortPrice={sortPrice}
-                sortAscDesc={sortAscDesc} />
+                sortAscDesc={sortAscDesc}
+                sortCategory={sortCategory}
+                />
+                
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2">
             {products.map((product) => {

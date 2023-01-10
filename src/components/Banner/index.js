@@ -21,7 +21,7 @@ const Banner = () => {
     }, [currentBanner]);
 
     return (
-        <div className="flex justify-center items-center mt-5 pl-2 pr-2">
+        <div className="flex justify-center cursor-pointer items-center mt-5 pl-2 pr-2">
             <img src={currentBanner} alt={"Banner Images"} />
         </div>
     );

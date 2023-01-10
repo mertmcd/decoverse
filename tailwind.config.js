@@ -16,7 +16,9 @@ module.exports = {
 
   ],
   theme: {
-    extend: {},
+    extend: {
+        visibility: ["group-hover"],
+    },
     fontFamily: {
       custom: ["Montserrat", "sans-serif"]
     },

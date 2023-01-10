@@ -17,7 +17,7 @@ const SubBanner = () => {
             <div className="mt-8 mx-auto grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2">
                 {subBanner.map((banner, index) => {
                     return (
-                        <div className="mx-2 my-2 place-self-center" key={index}>
+                        <div className="mx-2 my-2 place-self-center cursor-pointer" key={index}>
                             <img src={banner} alt={"Sub Banner Images"}  />
                         </div>
                     );
