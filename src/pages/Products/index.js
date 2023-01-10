@@ -84,8 +84,8 @@ const Products = () => {
             {products.map((product) => {
                 return (
                     
-                    <div className="product place-self-center" key={product.Id}>
-                        <LazyLoad><img className="object-scale-down max-w-full h-48 w-96 mb-1" src={product.ProductUrl} alt={product.title} /></LazyLoad>
+                    <div className="product place-self-center mt-5 ml-2 mr-2 mb-5 rounded border border-zinc-300" key={product.Id}>
+                        <LazyLoad><img className="object-scale-down p-5 max-w-full h-48 w-96 mb-1" src={product.ProductUrl} alt={product.title} /></LazyLoad>
                         <p className='text-sm mb-1'>{product.ProductBrand}</p><br></br>
                         <p className='font-bolder mb-1'>{product.ProductName}</p>
                         <p className="mb-1">{product.ProductPrice} TL</p>

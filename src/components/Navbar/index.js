@@ -34,20 +34,20 @@ const Navbar = () => {
 
     const HoverVitrifiye = () => {
         return (
-                <div className="vitrifiye mx-auto container hidden md:flex p-5 hover-menu-list bg-slate-300 absolute rounded-b-lg w-full grid grid-cols-2">
+                <div className="vitrifiye mx-auto container hidden md:flex p-5 hover-menu-list bg-slate-300 absolute rounded-b-lg w-full flex justify-between">
 
                     <div className="hover-menu-links columns-1">
                     <ul className="">
-                        <li className="hover-menu-list-item">
+                        <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                             <Link to="/products" className="hover-menu-list-item-link">Vitrifiye All</Link>
                         </li>
-                        <li className="hover-menu-list-item">
+                        <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                             <Link to="/products/1" className="hover-menu-list-item-link">Vitrifiye Category 1</Link>
                         </li>
-                        <li className="hover-menu-list-item">
+                        <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                             <Link to="/products/2" className="hover-menu-list-item-link">Vitrifiye Category 2</Link>
                         </li>
-                        <li className="hover-menu-list-item">
+                        <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                             <Link to="/products/3" className="hover-menu-list-item-link">Vitrifiye Category 3</Link>
                         </li>
                     </ul>
@@ -70,20 +70,20 @@ const Navbar = () => {
 
     const HoverBanyoMobilyalari = () => {
         return (
-            <div className="banyo mx-auto container hidden md:flex p-5 hover-menu-list bg-slate-300 absolute rounded-b-lg w-full grid grid-cols-2">
+            <div className="banyo mx-auto container hidden md:flex p-5 hover-menu-list bg-slate-300 absolute rounded-b-lg w-full flex justify-between">
            
             <div className="hover-menu-links columns-1">
                 <ul className="">
-                    <li className="hover-menu-list-item">
+                    <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                         <Link to="/products" className="hover-menu-list-item-link">Banyo Mobilyalari All</Link>
                     </li>
-                    <li className="hover-menu-list-item">
+                    <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                         <Link to="/products/1" className="hover-menu-list-item-link">Banyo Mobilyalari Category 1</Link>
                     </li>
-                    <li className="hover-menu-list-item">
+                    <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                         <Link to="/products/2" className="hover-menu-list-item-link">Banyo Mobilyalari Category 2</Link>
                     </li>
-                    <li className="hover-menu-list-item">
+                    <li className="hover-menu-list-item bg-slate-200 hover:bg-slate-400 p-2 mb-1 text-center">
                         <Link to="/products/3" className="hover-menu-list-item-link">Banyo Mobilyalari Category 3</Link>
                     </li>
                 </ul>
